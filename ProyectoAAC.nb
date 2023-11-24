@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    215667,       5398]
-NotebookOptionsPosition[    106690,       3099]
-NotebookOutlinePosition[    205593,       5285]
-CellTagsIndexPosition[    205516,       5280]
+NotebookDataLength[    215719,       5398]
+NotebookOptionsPosition[    106742,       3099]
+NotebookOutlinePosition[    205645,       5285]
+CellTagsIndexPosition[    205568,       5280]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -3029,9 +3029,9 @@ Cell[BoxData[
 39732763f406"],
 
 Cell[TextData[{
- "En el Notebook adjunto, que se puede descargar a trav\[EAcute]s del enlace \
-presentado al inicio de este escrito de GitHub, se pueden encontrar este y \
-otros c\[AAcute]lculos para las constantes ",
+ "En el Notebook adjunto, que se puede descargar a trav\[EAcute]s del \
+siguiente enlace (https://github.com/jzam0ra/Proyecto-AAC ), se pueden \
+encontrar este y otros c\[AAcute]lculos para las constantes ",
  Cell[BoxData[
   FormBox[
    SuperscriptBox["\[Pi]", "2"], TraditionalForm]],ExpressionUUID->
@@ -3060,8 +3060,8 @@ para una base no binaria [3]."
  CellChangeTimes->{{3.909440530994213*^9, 3.9094406714083786`*^9}, {
   3.9094411966908903`*^9, 3.909441263491168*^9}, {3.9094413392810335`*^9, 
   3.9094413846031804`*^9}, {3.9098110427900476`*^9, 3.909811054126586*^9}, {
-  3.90981111278014*^9, 
-  3.9098111443506107`*^9}},ExpressionUUID->"a9bf1187-8df0-4dc9-8c11-\
+  3.90981111278014*^9, 3.9098111443506107`*^9}, {3.909825025057376*^9, 
+  3.909825056368655*^9}},ExpressionUUID->"a9bf1187-8df0-4dc9-8c11-\
 930d1d7d5b07"]
 }, Open  ]],
 
@@ -5279,7 +5279,7 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"OnlineHeader", 205341, 5273}
+ {"OnlineHeader", 205393, 5273}
  }
 *)
 (*NotebookFileOutline
@@ -5393,11 +5393,11 @@ Cell[100132, 2919, 1732, 45, 41, "Text",ExpressionUUID->"ed105698-0d0b-43f9-8138
 Cell[101867, 2966, 805, 27, 47, "DisplayFormula",ExpressionUUID->"0ce8b774-d1c5-4385-9c04-b1df1c6fdb0a"],
 Cell[102675, 2995, 121, 3, 23, "Text",ExpressionUUID->"a33bee88-e2ad-40c4-accc-37bf914f42c4"],
 Cell[102799, 3000, 842, 28, 47, "DisplayFormula",ExpressionUUID->"387f9688-b237-4493-9e79-39732763f406"],
-Cell[103644, 3030, 1528, 34, 51, "Text",ExpressionUUID->"a9bf1187-8df0-4dc9-8c11-930d1d7d5b07"]
+Cell[103644, 3030, 1580, 34, 51, "Text",ExpressionUUID->"a9bf1187-8df0-4dc9-8c11-930d1d7d5b07"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[105209, 3069, 160, 3, 59, "Section",ExpressionUUID->"a6df2abc-584e-47a8-9275-729d5f02d493"],
-Cell[105372, 3074, 1290, 21, 95, "Text",ExpressionUUID->"27e3bde4-60b8-4554-810d-42c622ee6d33"]
+Cell[105261, 3069, 160, 3, 59, "Section",ExpressionUUID->"a6df2abc-584e-47a8-9275-729d5f02d493"],
+Cell[105424, 3074, 1290, 21, 95, "Text",ExpressionUUID->"27e3bde4-60b8-4554-810d-42c622ee6d33"]
 }, Open  ]]
 }, Open  ]]
 }
