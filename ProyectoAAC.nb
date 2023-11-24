@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    217199,       5433]
+NotebookDataLength[    216716,       5423]
 NotebookOptionsPosition[    108125,       3133]
-NotebookOutlinePosition[    207028,       5319]
-CellTagsIndexPosition[    206951,       5314]
+NotebookOutlinePosition[    206542,       5309]
+CellTagsIndexPosition[    206465,       5304]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -3132,8 +3132,8 @@ RI., 1991. MR93b:11158 \
 }, Open  ]]
 },
 WindowToolbars->"EditBar",
-WindowSize->{1920, 997},
-WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+WindowSize->{682, 668},
+WindowMargins->{{436, Automatic}, {Automatic, 88}},
 PrintingCopies->1,
 PrintingStartingPageNumber->1,
 PrintingPageRange->{1, Automatic},
@@ -3147,23 +3147,13 @@ PageHeaders->{{
     TextData[{
      "Proyecto", " ", "Algebra", " ", "Abstracta", " ", "y", " ", 
       "Computacional", " ", "2023", "-", "2"}], "Header", 
-    CellMargins -> {{Inherited, 0}, {Inherited, Inherited}}]}, {
-   Cell[
-    TextData[{
-     "Mixing", " ", "Numbers", " ", "and", " ", "Unfriendly", " ", 
-      "Colorings", " ", "of", " ", "Graphs"}], "Header", 
-    CellMargins -> {{0, Inherited}, {Inherited, Inherited}}], None, 
+    CellMargins -> {{Inherited, 0}, {Inherited, Inherited}}]}, {None, None, 
    Cell[
     TextData[
      StyleBox[
       CounterBox["Page"], "PageNumber"]], "Header", 
     CellMargins -> {{Inherited, 0}, {Inherited, Inherited}}]}},
-PageFooters->{{None, None, None}, {None, None, 
-   Cell[
-    TextData[{"The", " ", "Mathematica", " ", "Journal", " ", 
-      StyleBox["23", FontWeight -> "Bold"], " ", "\[Copyright]", " ", "2021", 
-      " ", "Wolfram", " ", "Media", ",", " ", "Inc", "."}], "Footer", 
-    CellMargins -> {{Inherited, 0}, {Inherited, Inherited}}]}},
+PageFooters->{{None, None, None}, {None, None, None}},
 PageHeaderLines->{False, False},
 PageFooterLines->{False, False},
 PrintingOptions->{"FacingPages"->True,
@@ -5313,7 +5303,7 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"OnlineHeader", 206776, 5307}
+ {"OnlineHeader", 206290, 5297}
  }
 *)
 (*NotebookFileOutline
@@ -5423,16 +5413,16 @@ Cell[92048, 2661, 669, 22, 36, "Text",ExpressionUUID->"aec87c2f-39af-4945-a278-2
 Cell[92720, 2685, 1348, 47, 30, "DisplayFormula",ExpressionUUID->"07ec71bd-0e9b-44e7-878c-dd28d0742f3d"],
 Cell[94071, 2734, 881, 19, 26, "Text",ExpressionUUID->"94a494c3-32cd-41c5-9127-34f93fde718c"],
 Cell[94955, 2755, 5143, 161, 465, "Input",ExpressionUUID->"a2de9bdb-6289-4b26-b945-8e848c649369"],
-Cell[100101, 2918, 1732, 45, 41, "Text",ExpressionUUID->"ed105698-0d0b-43f9-8138-1a84633f529e"],
+Cell[100101, 2918, 1732, 45, 77, "Text",ExpressionUUID->"ed105698-0d0b-43f9-8138-1a84633f529e"],
 Cell[101836, 2965, 805, 27, 47, "DisplayFormula",ExpressionUUID->"0ce8b774-d1c5-4385-9c04-b1df1c6fdb0a"],
 Cell[102644, 2994, 121, 3, 23, "Text",ExpressionUUID->"a33bee88-e2ad-40c4-accc-37bf914f42c4"],
 Cell[102768, 2999, 842, 28, 47, "DisplayFormula",ExpressionUUID->"387f9688-b237-4493-9e79-39732763f406"],
-Cell[103613, 3029, 1691, 37, 87, "Text",ExpressionUUID->"a9bf1187-8df0-4dc9-8c11-930d1d7d5b07"],
-Cell[105307, 3068, 1300, 30, 51, "Text",ExpressionUUID->"f599e325-da48-4e1e-bf6a-040cb9c90396"]
+Cell[103613, 3029, 1691, 37, 141, "Text",ExpressionUUID->"a9bf1187-8df0-4dc9-8c11-930d1d7d5b07"],
+Cell[105307, 3068, 1300, 30, 105, "Text",ExpressionUUID->"f599e325-da48-4e1e-bf6a-040cb9c90396"]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[106644, 3103, 160, 3, 59, "Section",ExpressionUUID->"a6df2abc-584e-47a8-9275-729d5f02d493"],
-Cell[106807, 3108, 1290, 21, 95, "Text",ExpressionUUID->"27e3bde4-60b8-4554-810d-42c622ee6d33"]
+Cell[106807, 3108, 1290, 21, 167, "Text",ExpressionUUID->"27e3bde4-60b8-4554-810d-42c622ee6d33"]
 }, Open  ]]
 }, Open  ]]
 }
